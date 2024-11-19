@@ -33,7 +33,7 @@ Currently working as a Full Stack Developer [@Ahmed](https://ahmed-mustafa-portf
 ## Let's Connect 🤝
 - Portfolio: [ahmed-mustafa-portfolio.vercel.app](https://ahmed-mustafa-portfolio.vercel.app/)
 - LinkedIn: [Ahmed Mustafa](https://www.linkedin.com/in/ahmed-mustafa-ahmed-abbas-a5346a23a/)
-Email:<a href="mailto:ahmedmustafa0384@gmail.com"></a> ahmedmustafa0384@gmail.com
+- Email:<a href="mailto:ahmedmustafa0384@gmail.com"></a> ahmedmustafa0384@gmail.com
 ## Currently Learning 📚
 - Advanced React Patterns
 - System Design
